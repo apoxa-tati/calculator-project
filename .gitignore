@@ -6,3 +6,4 @@ venv/
 *.log
 .DS_Store
 *.zip
+todo_api_ci_cd/
